@@ -1,0 +1,23 @@
+    .navbar{
+        width:   100%;
+        display: flex;
+        padding: 10px;
+        justify-content: space-between;
+        width:500px;
+        margin:0px auto;
+    }
+    .navbarbrand{
+        font-weight:bold;
+        padding-left:20px;
+        margin-top:14px;
+    }
+    .navlinks ul{
+        padding:0px;
+        list-style-type:none;
+        display:flex;
+    }
+    .navlinks ul li{
+        margin-right:15px;
+        margin-top:0px;
+        padding:0px;
+    }
